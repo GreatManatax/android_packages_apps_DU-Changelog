@@ -1,0 +1,18 @@
+[
+{
+"changelog": "- Nav gestures improvements
+
+- Fixes from Google/AOSP to improve stability
+
+- Added ability to change gesture nav handle bar size
+
+- Added Android R style screen record dialog (eye candy)
+
+- Added Navbar styles under DU-Themes
+
+- Fixed Android Auto black screen issues
+
+"
+}
+]
+
