@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <resources>
-    <string name="changelog_title">Notes de version</string>
-    <string name="changelog_unavailable">Notes de version indisponibles</string>
-    <string name="changelog_no_connection_title">Aucune connexion Internet</string>
-    <string name="changelog_no_connection_summary">Vérifier que l\'appareil est connecté à Internet</string>
+    <string name="changelog_title">Изменения</string>
+    <string name="changelog_unavailable">Изменения не доступны</string>
+    <string name="changelog_no_connection_title">Нет подключения к Интернету</string>
+    <string name="changelog_no_connection_summary">Убедитесь, что ваш телефон или планшет подключены к Интернету.</string>
 </resources>

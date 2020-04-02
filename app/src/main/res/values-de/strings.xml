@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <resources>
-    <string name="changelog_title">Notes de version</string>
-    <string name="changelog_unavailable">Notes de version indisponibles</string>
-    <string name="changelog_no_connection_title">Aucune connexion Internet</string>
-    <string name="changelog_no_connection_summary">Vérifier que l\'appareil est connecté à Internet</string>
+    <string name="changelog_title">Changelog</string>
+    <string name="changelog_unavailable">Changelog nicht verfügbar</string>
+    <string name="changelog_no_connection_title">Keine Internetverbindung</string>
+    <string name="changelog_no_connection_summary">Stellen Sie sicher, dass Sie online sind und dass Ihr Telefon oder Tablet mit dem Internet verbunden ist.</string>
 </resources>
