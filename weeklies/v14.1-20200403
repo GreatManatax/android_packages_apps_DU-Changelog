@@ -1,0 +1,15 @@
+[
+{
+"changelog": "- Added long press actions for wifi/mobile data and nfc QS
+
+- Minor improvements for Screen record dialog and QS customizer screen
+
+- Added ability to backup and restore navbar styles under DU Themes
+
+- Added switch to toggle heads up when playing new music tracks
+
+- Some minor improvements to DU-Tweaks
+
+"
+}
+]
