@@ -1,0 +1,32 @@
+[
+{
+"changelog": "- Merged in April's security update
+
+- Device specific fixes and improvements
+
+- Nav gestures improvements
+
+- Fixes from Google/AOSP to improve stability
+
+- Added ability to change gesture nav handle bar size
+
+- Added Android R style screen record dialog (eye candy)
+
+- Added Navbar styles under DU-Themes
+
+- Fixed Android Auto black screen issues
+
+- Added long press actions for wifi/mobile data and nfc QS
+
+- Minor improvements for Screen record dialog and QS customizer screen
+
+- Added ability to backup and restore navbar styles under DU Themes
+
+- Added switch to toggle heads up when playing new music tracks
+
+- Some minor improvements to DU-Tweaks
+
+"
+}
+]
+
